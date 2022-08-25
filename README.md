@@ -9,7 +9,7 @@ I'm a Software Engineer passionate about Algorithms&Datastructures, Logical reas
 <div style="display:flex; gap: 20px; flex-direction:row">
 <h4>Languages</h4>
 <ul>
-<li>Python</li>
+<li style="color:red">Python</li>
   <li>Dart</li>
   <li>JavaScript</li>
  </ul>
