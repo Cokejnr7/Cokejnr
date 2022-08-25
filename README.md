@@ -8,13 +8,8 @@ I'm a Software Engineer passionate about Algorithms&Datastructures, Logical reas
 
 <h2 style="border-bottom: 1px solid grey">SKILLS</h2>
 <h4>Languages</h4>
-<ul>
-<li style="color:red">Python</li>
-  <li>Dart</li>
-  <li>JavaScript</li>
- </ul>
- <h4>Frameworks</h4>
- <ul>
+&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <li>Django</li>
   <li>Flutter</li>
   <li>React</li>
