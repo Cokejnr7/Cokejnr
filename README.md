@@ -19,7 +19,7 @@ I'm a Software Engineer passionate about Algorithms&Datastructures, Logical reas
   <li>Flutter</li>
   <li>React</li>
  </ul>
-  <div>
+  </div>
 
 **Here's a quick summary about me**:
 
