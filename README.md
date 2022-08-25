@@ -12,8 +12,8 @@ I'm a Software Engineer passionate about Algorithms&Datastructures, Logical reas
   <li>Dart</li>
   <li>JavaScript</li>
  </ul>
+ <h4>Frameworks</h4>
  <ul>
-  <h4>Frameworks</h4>
 <li>Django</li>
   <li>Flutter</li>
   <li>React</li>
