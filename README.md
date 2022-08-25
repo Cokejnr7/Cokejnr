@@ -5,8 +5,8 @@
 
 I'm a Software Engineer passionate about Algorithms&Datastructures, Logical reasoning, documentation, web engineering,  and others.
 
-SKILLS
-<hr>
+<h2 style="border-bottom: 1px solid grey">SKILLS<h2>
+
 **Here's a quick summary about me**:
 
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
