@@ -6,12 +6,20 @@
 I'm a Software Engineer passionate about Algorithms&Datastructures, Logical reasoning, documentation, web engineering,  and others.
 
 <h2 style="border-bottom: 1px solid grey">SKILLS</h2>
+<div style="display:flex; gap: 20px;">
 <h4>Languages</h4>
 <ul>
 <li>Python</li>
   <li>Dart</li>
   <li>JavaScript</li>
  </ul>
+ <ul>
+  <h4>Frameworks</h4>
+<li>Django</li>
+  <li>Flutter</li>
+  <li>React</li>
+ </ul>
+  <div>
 
 **Here's a quick summary about me**:
 
