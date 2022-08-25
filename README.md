@@ -6,7 +6,6 @@
 I'm a Software Engineer passionate about Algorithms&Datastructures, Logical reasoning, documentation, web engineering,  and others.
 
 <h2 style="border-bottom: 1px solid grey">SKILLS</h2>
-<div style="display:flex; gap: 20px; flex-direction:row">
 <h4>Languages</h4>
 <ul>
 <li style="color:red">Python</li>
